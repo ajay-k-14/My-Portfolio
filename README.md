@@ -23,12 +23,5 @@ This repository is my personal portfolio website and showcases my skills, projec
 - GitHub Pages for hosting  
 - [Optional] You may mention any frameworks or libraries if you add them (e.g., Bootstrap, Sass, React)
 
-  ## 📁 Folder Structure  
-My-Portfolio/
-│
-├─ assets/ ← Contains images, icons, CSS files, etc.
-├─ index.html ← Entry point to the site
-└─ README.md ← This file
-
 Thank you for visiting my portfolio. I hope you enjoy exploring it as much as I did building it!  
 — Ajay K  
