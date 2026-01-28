@@ -1919,7 +1919,6 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .sidebar {
-    /* position: relative; */
     top: 60px;
     max-height: max-content;
     height: 100%;
